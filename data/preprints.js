@@ -11,6 +11,15 @@
 
 window.PREPRINTS = [
   {
+    id: 11,
+    year: 2026,
+    authors: "M. F. Djete, M. M.",
+    title: "A McKean-Vlasov semigroup and its application to a martingale representation problem.",
+    links: [
+      { label: "Preprint", url: "https://arxiv.org/abs/2608.03412" }
+    ]
+  },
+  {
     id: 10,
     year: 2025,
     authors: "F. Delarue, M. M., G. E. Sodini.",
