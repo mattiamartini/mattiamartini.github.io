@@ -11,6 +11,15 @@
 
 window.PREPRINTS = [
   {
+    id: 12,
+    year: 2026,
+    authors: "M. F. Djete, M. M.",
+    title: "W-BSDEs with Common Noise: Well-posedness, Characterization, and Consequences.",
+    links: [
+      { label: "Preprint", url: "https://arxiv.org/abs/2610.06593" }
+    ]
+  },
+  {
     id: 11,
     year: 2026,
     authors: "M. F. Djete, M. M.",

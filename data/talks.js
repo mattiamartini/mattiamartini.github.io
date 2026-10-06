@@ -14,6 +14,12 @@
 window.TALKS = [
   {
     year: 2026,
+    event: "Demi-journée MIRTE.",
+    venue: "Institut Louis Bachelier",
+    note: "seminar of the ANR PEPR MIRTE"
+  },
+  {
+    year: 2026,
     event: "Fifth Italian Meeting on Probability and Mathematical Statistics.",
     venue: "Università degli Studi di Palermo",
     note: "session \"Stochastic Systems, Mean-Field Models, and Control\""
