@@ -11,6 +11,15 @@
 
 window.PREPRINTS = [
   {
+    id: 13,
+    year: 2026,
+    authors: "N. Fontana, M. M., H. Pham.",
+    title: "Linear-quadratic mean field games with Volterra dynamics.",
+    links: [
+      { label: "Preprint", url: "https://arxiv.org/abs/2610.37622" }
+    ]
+  },
+  {
     id: 12,
     year: 2026,
     authors: "M. F. Djete, M. M.",

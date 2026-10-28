@@ -13,6 +13,17 @@
 
 window.TALKS = [
   {
+    year: 2026, 
+    event: "(upcoming) Séminaire de l'équipe Équations aux Dérivées Partielles.",
+    venue: "LAMA, Université Savoie Mont Blanc"
+  },
+  {
+    year: 2026,
+    event: "(upcoming) PGMO Days.",
+    venue: "EDF Lab Paris-Saclay",
+    note: "invited session \"Recent Advances in Mean Field Games and Mean Field Control\""
+  },
+  {
     year: 2026,
     event: "Demi-journée MIRTE.",
     venue: "Institut Louis Bachelier",
