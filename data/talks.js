@@ -19,7 +19,7 @@ window.TALKS = [
   },
   {
     year: 2026,
-    event: "(upcoming) PGMO Days.",
+    event: "PGMO Days.",
     venue: "EDF Lab Paris-Saclay",
     note: "invited session \"Recent Advances in Mean Field Games and Mean Field Control\""
   },
